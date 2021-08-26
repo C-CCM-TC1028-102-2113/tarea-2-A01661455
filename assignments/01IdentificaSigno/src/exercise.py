@@ -11,6 +11,5 @@ def main():
         print('Es cero')
     pass
 
-
 if __name__ == '__main__':
     main()
